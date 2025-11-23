@@ -1,18 +1,3 @@
-# ✅ **New Title (Cybersecurity‑Friendly)**
-
-**Multi‑Service Credential Validator for Security Auditing (C++ Mass Checker)**
-
----
-
-# ✅ **New GitHub Description (Replace the old one)**
-
-A high‑performance C++ tool for **bulk credential validation across SSH (22), cPanel (2083), and WebMail (2084)**. Designed for security auditing, penetration testing workflows, and infrastructure assessments. Processes large lists efficiently and stores structured results in the `/result` directory. *(For authorized testing only.)*
-
----
-
-# ✅ **Updated `README.md` (Copy–Paste this)**
-
-```markdown
 # 🛡️ Multi‑Service Credential Validator for Security Auditing (C++)
 
 This C++ tool is designed for **bulk credential validation** during security audits and penetration testing engagements.  
